@@ -1,5 +1,5 @@
 body {
-    background-color: #E9D5CA;;
+    background-color: #EFEAD8;;
 }
 hr { 
     border-color: red;
@@ -15,14 +15,28 @@ h1 {
 
 h3{
     color:#8CC0DE;
+    position: relative;
+    left: 100px;
 
 }
 
 h4{
     color:#8CC0DE;
-
+    position: relative;
+    left: 100px;
 }
-
+.ol{
+    position: relative;
+    left: 80px;
+}
+.tb1{
+    position: relative;
+    left: 100px;
+}
+.tb2{
+    position: relative;
+    left: 100px;
+}
 img :hover{
 background-color: red;
 }
@@ -34,8 +48,13 @@ background-color: red;
     
 }
 .jj{
-    background-color: #827397;
-    width: 100%;
+    background-color: #6D8B74;
+    width: 80%;
+    text-align: center;
+    position:relative;
+    left:100px;
+    right:100px;
+    margin-left: 0px;
 }
 .kk :hover{
     background-color: chartreuse;
